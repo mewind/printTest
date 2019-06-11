@@ -1,0 +1,10 @@
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\obj\Debug\PrintDocs.csprojAssemblyReference.cache
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\obj\Debug\PrintDocs.Form1.resources
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\obj\Debug\PrintDocs.Properties.Resources.resources
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\obj\Debug\PrintDocs.csproj.GenerateResource.cache
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\obj\Debug\PrintDocs.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\bin\Debug\PrintDocs.exe.config
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\bin\Debug\PrintDocs.exe
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\bin\Debug\PrintDocs.pdb
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\obj\Debug\PrintDocs.exe
+C:\Users\User-PC\Desktop\PrintDocs\PrintDocs\obj\Debug\PrintDocs.pdb
